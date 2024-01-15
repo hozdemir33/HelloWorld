@@ -13,7 +13,7 @@ public class yusufsprint {
 
         System.out.println(sum);
 
-        double k=1.2;   //decimal numbers
+        double k=1.2;   //decimal numberscce
         double h=2.3;
         System.out.println(h+k);
 
